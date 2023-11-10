@@ -29,4 +29,4 @@ demonstrar as possíveis rotas deste trajeto e concluiu que somente é possível
 um passeio completo de modo que cada ponte seja atravessada somente uma vez
 se todos os bairros tiverem um número par de pontes, ou exatamente dois bairros
 tiverem um número ímpar de pontes (SINGH, 2014)
-image.png
+
