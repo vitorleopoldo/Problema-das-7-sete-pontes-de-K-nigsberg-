@@ -30,3 +30,6 @@ um passeio completo de modo que cada ponte seja atravessada somente uma vez
 se todos os bairros tiverem um número par de pontes, ou exatamente dois bairros
 tiverem um número ímpar de pontes (SINGH, 2014)
 
+![image](https://github.com/vitorleopoldo/Problema-das-7-sete-pontes-de-K-nigsberg-/assets/91163817/3bf8cc1f-009d-460c-8a9a-c0d9e597b45b)
+
+
